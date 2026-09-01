@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-v2.jpg" width="100%" alt="Vicente Donoso" />
+<img src="assets/header-v3.jpg" width="100%" alt="Vicente Donoso" />
 
 <br>
 
