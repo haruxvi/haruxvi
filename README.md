@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="assets/header.jpg" width="100%" alt="" />
-
-<br><br>
-
-**Vicente Donoso**
-
-<sub>Software Engineer · Santiago, Chile</sub>
+<img src="assets/header-v2.jpg" width="100%" alt="Vicente Donoso" />
 
 <br>
 
